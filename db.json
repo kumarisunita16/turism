@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "msgData": [
+    {
+      "id": 1,
+      "name": "siya mehta",
+      "email": "msiya1606@gmail.com",
+      "subject": "about my house",
+      "message": "i am planing for my dream house so contact me "
+    },
+    {
+      "id": 2,
+      "name": "riya mehta",
+      "email": "mriya1606@gmail.com",
+      "subject": "about my house",
+      "message": "i am planing for my dream house so contact me "
+    },
+    {
+      "name": "siniya",
+      "email": "msiya1606@gmail.com",
+      "subject": "about my house",
+      "message": "nbxjhchb ",
+      "id": 3
+    },
+    {
+      "name": "sunita",
+      "email": "angelsunita23468@gmail.com",
+      "subject": "sdfsd",
+      "message": "sdfsdf",
+      "id": 4
+    }
+  ],
+  "bookingData": [
+    {
+      "name": "sunita",
+      "email": "angelsunita23468@gmail.com",
+      "date": "12-10-2023",
+      "Destination": "2",
+      "textarea": "uiwoshuhshufuyfgh",
+      "id": 1
+    },
+    {
+      "name": "sunita",
+      "email": "angelsunita23468@gmail.com",
+      "date": "12-10-2023",
+      "Destination": "2",
+      "textarea": "jshujvbxz,hjksb",
+      "id": 2
+    },
+    {
+      "name": "meena",
+      "email": "ghdsjdgch",
+      "date": "12-12-2023",
+      "Destination": "2",
+      "textarea": "jukdyrahgwsdg",
+      "id": 3
+    }
+  ],
+  "search": []
+}
